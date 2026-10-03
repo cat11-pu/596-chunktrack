@@ -1,0 +1,5 @@
+np-det-jj-nn	NP	{<DT>?<JJ>*<NN>}
+np-prp-jj-nn	NP	{<DT|PRP>?<JJ>*<NN>}
+np-nnp	NP	{<NNP>+}
+chink-vbd-rp	NP	}<VBD><RP>{
+np-notvbd	NP	{<!VBD>+}

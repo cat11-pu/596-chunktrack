@@ -1,0 +1,5 @@
+s1	np-det-jj-nn	the/DT little/JJ yellow/JJ dog/NN barked/VBD at/IN the/DT cat/NN
+s2	np-prp-jj-nn	Rapunzel/NNP let/VBD down/RP her/PRP long/JJ golden/JJ hair/NN
+s3	np-nnp	Rapunzel/NNP let/VBD down/RP her/PRP long/JJ golden/JJ hair/NN
+s4	chink-vbd-rp	Rapunzel/NNP let/VBD down/RP her/PRP long/JJ golden/JJ hair/NN
+s5	np-notvbd	a/DT b/JJ run/VBD c/NN
